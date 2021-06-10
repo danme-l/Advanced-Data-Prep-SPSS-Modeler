@@ -10,5 +10,7 @@ _SPSS Modeler is a leading visual data science and machine learning solution. It
 * _Explore a hybrid approach — on premises and in the public or private cloud_
 * _Start small and scale to an enterprise-wide, governed approach_
 
-
-All included files are IBM .str files and will require IBM SPSS Modeler to run. 
+Included Files:
+* IBM Advanced Data Modeler in PDF
+* Compressed Data Files 
+* IBM .str files containing the Streams - these will require SPSS Modeler to run or view
