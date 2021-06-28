@@ -1,5 +1,8 @@
-# Advanced-Data-Prep-SPSS-Modeler
-Exercise Files for Advanced Data Prep with IBM SPSS Modeler.
+SPSS-Modeler
+Exercise Files for IBM SPSS Modeler Documentation
+At the moment, repository includes documentation, datasets and the .str files for all exercises for:
+* Advanced Data Preparation with IBM SPSS Modeler
+* Introduction to Time Series Analysis Using IBM SPSS Modeler
 
 [IBM SPSS Modeler](https://www.ibm.com/products/spss-modeler) from the IBM website. There is a free Trial. Description from IBM: 
 
@@ -11,6 +14,6 @@ _SPSS Modeler is a leading visual data science and machine learning solution. It
 * _Start small and scale to an enterprise-wide, governed approach_
 
 Included Files:
-* IBM Advanced Data Modeler in PDF
+* Documentation in PDF
 * Compressed Data Files 
 * IBM .str files containing the Streams - these will require SPSS Modeler to run or view
